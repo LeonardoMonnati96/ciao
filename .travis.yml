@@ -7,7 +7,7 @@ addons:
     organization:"leonardomonnati96"
 
     token:
-      secure:34afdc6a95029cd88be87f4c067abcb5c525c139
+      secure:bc9ac52acbf4ca71867cc570966c6f06e0be330e
 
 script: 
 - ant build 
